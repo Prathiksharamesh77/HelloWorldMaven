@@ -5,6 +5,7 @@ package com.test.HelloWorldMaven;
  *
  */
 public class App 
+This was edited by Prathiksha on 28th june
 {
     public static void main( String[] args )
     {
